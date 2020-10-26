@@ -1,0 +1,22 @@
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 8px;
+  text-transform: capitalize;
+}
+
+input {
+  outline: none;
+  border: 1px solid #ccc;
+  background-color: white;
+  font: inherit;
+  padding: 6px 10px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+input:focus {
+  outline: none;
+  background-color: #ccc;
+}
